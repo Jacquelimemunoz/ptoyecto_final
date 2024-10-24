@@ -1,0 +1,265 @@
+@media (max-width: 361px) {
+    .boton, .boton2 {
+        width: 100%; 
+        box-sizing: border-box; 
+            margin-left: 0px;
+            margin-bottom: 50px;
+            padding: 20px 5px;
+        }
+    
+
+    img{
+        height: auto;
+        max-width:100%;
+        margin: 0;
+    }
+    body h2 {
+        font-size: 80px;
+        margin-bottom: 20px;
+      }
+
+    p{
+        font-size: 80%;
+    }
+    
+    .titulo{
+        font-size: 200%;
+    }
+
+    .parrafo{
+        font-size: none;
+    }
+
+    iframe {
+        width: 100%; 
+    }
+
+    section {
+        padding: 15px; 
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+    }
+
+    .icons img {
+        width: 50px; 
+        margin: 5px; 
+    }
+
+    .video{
+        margin: 0px;
+    }
+
+    .burger {
+        display: flex;
+        align-items: center; 
+        margin-top: 5px; 
+        margin-left: auto; 
+        cursor: pointer; 
+        counter-increment: none;
+    }
+    
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        background-color: #5e4b8c;
+        top: 40px; 
+        right: 0;
+        width: 100%;
+    }
+    
+    .nav-links.active {
+        display: flex;
+    }
+    .logo img {
+        height: 10%;
+        width: 40%;
+        margin-top: 20px; 
+    }
+    
+    .nosotros {
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+    }
+
+}
+@media (max-width: 800px) {
+    .boton, .boton2 {
+        width: 100%; 
+        box-sizing: border-box; 
+            margin-left: 0px;
+            margin-bottom: 50px;
+            padding: 20px 5px;
+        }
+    
+
+    img{
+        height: auto;
+        max-width:100%;
+        margin: 0;
+    }
+    body h2 {
+        font-size: 10px;
+        margin-bottom: 20px;
+      }
+
+    p{
+        font-size: 80%;
+    }
+    
+    .titulo{
+        font-size: 200%;
+    }
+
+    .parrafo{
+        font-size: none;
+    }
+
+    iframe {
+        width: 100%; 
+    }
+
+    section {
+        padding: 15px; 
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+    }
+
+    .icons img {
+        width: 50px; 
+        margin: 5px; 
+    }
+
+    .video{
+        margin: 0px;
+    }
+
+    .burger {
+        display: flex;
+        align-items: center; 
+        margin-top: 5px; 
+        margin-left: auto; 
+        cursor: pointer; 
+        counter-increment: none;
+    }
+    
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        background-color: #5e4b8c;
+        top: 40px; 
+        right: 0;
+        width: 100%;
+    }
+    
+    .nav-links.active {
+        display: flex;
+    }
+    .logo img {
+        height: 10%;
+        width: 40%;
+        margin-top: 20px; 
+    }
+    
+    .nosotros {
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+    }
+
+}
+
+@media (max-width: 1200px){
+    .boton, .boton2 {
+        width: 100%; 
+        box-sizing: border-box; 
+        margin-left: 0px;
+        margin-bottom: 50px;
+        padding: 20px 5px;
+    }
+
+    img{
+        height: auto;
+        max-width:100%;
+        margin: 0;
+    }
+    h2{
+        font-size:300%;  
+    }
+
+    p{
+        font-size: 190%;
+    }
+    
+    .titulo{
+        font-size: 200%;
+    }
+
+    .parrafo{
+        font-size: none;
+    }
+
+    iframe {
+        width: 100%; 
+    }
+
+    section {
+        padding: 15px; 
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+    }
+
+    .icons img {
+        width: 50px; 
+        margin: 5px; 
+    }
+
+    .video{
+        margin: 0px;
+    }
+
+    .burger {
+        display: flex;
+        align-items: center; 
+        margin-top: 5px; 
+        margin-left: auto; 
+        cursor: pointer; 
+    }
+    
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        background-color: #5e4b8c; 
+        top: 40px; 
+        right: 0;
+        width: 100%;
+    }
+    
+    .nav-links.active {
+        display: flex;
+    }
+    .logo img {
+        height: 10%;
+        width: 40%;
+        margin-top: 20px; 
+    }
+
+    .imagen-tips{
+        width: 300%;
+    }
+}

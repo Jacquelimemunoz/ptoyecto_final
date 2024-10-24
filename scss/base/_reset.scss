@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import "../utilidades/variables";
+
+body {
+    background-color: $secondary-color;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+  }
+ 
+  body p {
+    font-size: 30px;
+    margin: 20px;
+    margin-bottom: 100px;
+  }
+
+  img {
+    max-width: 50%; 
+    height: auto;
+    margin: 40px;
+}
+
+.video{
+   margin: 30px;
+}
+
+.imagen-tips{
+    width: 300%;
+}
